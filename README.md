@@ -70,7 +70,8 @@
 1. Clone this repository using :
 
 ```bash
-git clone https://github.com/itsdarkdevil/1anime-x-skyanime-remake.git
+git clone https://github.com/animesslight/Animesslight
+cd animesslight
 ```
 
 2. Install package using npm :
